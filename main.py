@@ -16,7 +16,7 @@ from scripts import check_for_notification, add_days
 import aioschedule
 
 
-#comment test_2
+#comment test_3
 
 
 async def on_startup(_):
