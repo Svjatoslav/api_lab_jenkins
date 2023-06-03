@@ -2,7 +2,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardRemo
 
 
 kb_start = ReplyKeyboardMarkup(resize_keyboard=True)
-b1 = KeyboardButton('Запланировать дело')
+b1 = KeyboardButton('!!!')
 b2 = KeyboardButton('Текущие дела')
 b3 = KeyboardButton('Выполненные дела')
 b4 = KeyboardButton('/start')
